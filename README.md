@@ -33,7 +33,7 @@ I'm a **Software Engineer** focused on building reliable backend systems and lea
 
 * 🥇 **Winner - HERE GenAI Hackathon**
 * 🧠 Solved **400+ DSA problems** on leetcode
-[LeetCode](https://leetcode.com/prince_mishra_7/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/prince_mishra_7)
 
 ---
 
