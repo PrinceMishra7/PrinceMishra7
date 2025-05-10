@@ -33,21 +33,29 @@ I'm a **Software Engineer** focused on building reliable backend systems and lea
 
 * 🥇 **Winner - HERE GenAI Hackathon**
 * 🧠 Solved **400+ DSA problems** on leetcode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/prince_mishra_7)](https://leetcode.com/prince_mishra_7)
+* [![Leetcode Stats](https://leetcard.jacoblin.cool/prince_mishra_7)](https://leetcode.com/prince_mishra_7)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceMishra7&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceMishra7&theme=github-dark" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceMishra7&layout=compact&theme=github_dark" alt="Top Languages" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=PrinceMishra7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/PrinceMishra7">
+    <img src="https://github-readme-stats.vercel.app/api?username=PrinceMishra7&show_icons=true&theme=github_dark" height="150"/>
+  </a>
+  <a href="https://github.com/PrinceMishra7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceMishra7&layout=compact&theme=github_dark" height="150"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceMishra7&theme=github-dark" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrinceMishra7&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
 
 ---
 
