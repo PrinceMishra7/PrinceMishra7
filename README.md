@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince Mishra
 
-I'm a **Software Engineer** who enjoys building reliable backend systems and learning new technologies.
+I'm a **Software Engineer** focused on building reliable backend systems and learning new technologies.
 
 ---
 
@@ -32,7 +32,8 @@ I'm a **Software Engineer** who enjoys building reliable backend systems and lea
 ## 🏆 Achievements
 
 * 🥇 **Winner - HERE GenAI Hackathon**
-* 🧠 Solved **400+ DSA problems** on [LeetCode](https://leetcode.com/your-username/) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+* 🧠 Solved **400+ DSA problems** on leetcode
+[LeetCode](https://leetcode.com/prince_mishra_7/)
 
 ---
 
@@ -53,9 +54,7 @@ I'm a **Software Engineer** who enjoys building reliable backend systems and lea
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/princemishra7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/prince_mishra_7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:princemisra@gmail.com)
-
 
 
 <p align="center">
