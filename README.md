@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince Mishra
 
-I'm a **Software Engineer** focused on building reliable backend systems and learning new technologies.
+I'm a **Software Engineer at [HERE Technologies](https://www.here.com/)** focused on building reliable backend systems and learning new technologies.
 
 ---
 
@@ -29,11 +29,17 @@ I'm a **Software Engineer** focused on building reliable backend systems and lea
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 * 🥇 **Winner - HERE GenAI Hackathon**
-* 🧠 Solved **400+ DSA problems** on leetcode
-* [![Leetcode Stats](https://leetcard.jacoblin.cool/prince_mishra_7)](https://leetcode.com/prince_mishra_7)
+* 🧠 Solved **400+ DSA problems** on [LeetCode](https://leetcode.com/prince_mishra_7/)
+
+<p align="center">
+  <a href="https://leetcode.com/prince_mishra_7/">
+    <img src="https://leetcard.jacoblin.cool/prince_mishra_7" alt="LeetCode Stats" />
+  </a>
+</p>
+
 
 ---
 
