@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prince Mishra
 
-I'm a **Software Engineer at [HERE Technologies](https://www.here.com/)** focused on building reliable backend systems and learning new technologies.
+Software Engineer shaping scalable backend systems, diving into new tech, and crafting code with intent.
 
 ---
 
