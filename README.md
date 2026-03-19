@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prince Mishra
+# 👋 Hi there!, I'm Prince Mishra
 
 Software Engineer shaping scalable backend systems, diving into new tech, and crafting code with intent.
 
